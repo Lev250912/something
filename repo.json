@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Chrome",
+        "folder": "Chrome",
+        "iconPrefix": "chrome",
+        "version": 1,
+        "zipUrl": "https://github.com/Lev250912/something/raw/main/app_chrome.zip"
+    }
+]
