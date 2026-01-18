@@ -4,6 +4,7 @@
         "folder": "Chrome",
         "iconPrefix": "chrome",
         "version": 1,
-        "zipUrl": "https://github.com/Lev250912/something/raw/main/app_chrome.zip"
+        "zipUrl": "https://github.com/Lev250912/something/raw/main/app_chrome.zip",
+        "previewIcon": "https://github.com/Lev250912/something/raw/main/app_chrome.png"
     }
 ]
